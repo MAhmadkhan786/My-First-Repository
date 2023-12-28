@@ -503,3 +503,5 @@ void fileCompression() {
     readtext.close();
     compressedFile.close();
 }
+
+// Fuck 28/12/2023
